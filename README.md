@@ -102,17 +102,17 @@
 
 <div align="center">
 
-#### <img src="https://img.icons8.com/fluency/48/activity-history.png" width="22" valign="middle" /> Contribution Activity Pulse
-<img src="https://ghchart.rshah.org/2188ff/Rishant-Singh" alt="Rishant's GitHub Activity Chart" width="100%" />
+#### 📈 Contribution Activity Pulse
+<img src="https://ghchart.rshah.org/00F5D4/Rishant-Singh" alt="Rishant's GitHub Activity Chart" width="100%" />
 
 <br/><br/>
 
-| Metric | Focus / Pipeline | Primary Tools |
+| Metric Area | Focus & System Architecture | Stack Badges |
 | :--- | :--- | :--- |
-| **<img src="https://img.icons8.com/fluency/48/source-code.png" width="18" valign="middle" /> Core Languages** | Full-Stack Execution & System Logic | `JavaScript` `TypeScript` `Python` |
-| **<img src="https://img.icons8.com/fluency/48/server.png" width="18" valign="middle" /> Real-Time & Backend** | Event-Driven Architectures & APIs | `Node.js` `Express` `Socket.io` |
-| **<img src="https://img.icons8.com/fluency/48/database.png" width="18" valign="middle" /> Data Persistence** | Document & Cloud Datastores | `MongoDB` `Firebase` |
-| **<img src="https://img.icons8.com/fluency/48/shield.png" width="18" valign="middle" /> Threat Intel & Systems** | Automated Telemetry & OS Internals | `Linux` `Git` `REST APIs` |
+| **💻 Core Languages** | Full-Stack Execution & System Logic | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **⚡ Real-Time & Backend** | Event-Driven Architectures & APIs | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) |
+| **🗄️ Persistence & Cloud** | Document & Cloud Datastores | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **🛡️ Threat Intel & Systems** | Automated Telemetry & OS Internals | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 </div>
 
