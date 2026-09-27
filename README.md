@@ -70,7 +70,7 @@
         <li><strong>Persistence:</strong> Granular conversation logs and ticket queues organized with <code>MongoDB</code>.</li>
       </ul>
       <div align="center">
-        <a href="https://github.com/Rishant-Singh/quick-desk">
+        <a href="https://github.com/Rishant-Singh/QuickDesk">
           <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
       </div>
@@ -88,7 +88,7 @@
         <li><strong>Visual Command Hub:</strong> Interactive analytics and security posture monitoring via responsive <code>React</code> dashboards.</li>
       </ul>
       <div align="center">
-        <a href="https://github.com/Rishant-Singh/cyberhawk-cti">
+        <a href="https://github.com/Rishant-Singh/CyberHawk">
           <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
       </div>
@@ -102,11 +102,18 @@
 
 <div align="center">
 
+<!-- Real-time Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishant-Singh&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" width="95%" />
+
+<br/><br/>
+
+<!-- Streak & Top Languages Cards -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishant-Singh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishant-Singh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishant-Singh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="46%" />
 
 <br/>
 
+<!-- Overall Metrics with Private Commits Enabled -->
 <img src="https://github-readme-stats.vercel.app/api?username=Rishant-Singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Profile Metrics" width="95%" />
 
 </div>
