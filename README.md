@@ -103,27 +103,16 @@
 <div align="center">
 
 #### <img src="https://img.icons8.com/fluency/48/activity-history.png" width="22" valign="middle" /> Contribution Activity Pulse
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishant-Singh&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+<img src="https://ghchart.rshah.org/2188ff/Rishant-Singh" alt="Rishant's GitHub Activity Chart" width="100%" />
 
 <br/><br/>
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <strong><img src="https://img.icons8.com/fluency/48/fire-element.png" width="20" valign="middle" /> Developer Streak</strong><br/><br/>
-      <img src="https://streak-stats.demolab.com/?user=Rishant-Singh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <strong><img src="https://img.icons8.com/fluency/48/source-code.png" width="20" valign="middle" /> Primary Languages</strong><br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishant-Singh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-#### <img src="https://img.icons8.com/fluency/48/system-task.png" width="22" valign="middle" /> Overall Profile Telemetry
-<img src="https://github-readme-stats.vercel.app/api?username=Rishant-Singh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Profile Metrics" width="95%" />
+| Metric | Focus / Pipeline | Primary Tools |
+| :--- | :--- | :--- |
+| **<img src="https://img.icons8.com/fluency/48/source-code.png" width="18" valign="middle" /> Core Languages** | Full-Stack Execution & System Logic | `JavaScript` `TypeScript` `Python` |
+| **<img src="https://img.icons8.com/fluency/48/server.png" width="18" valign="middle" /> Real-Time & Backend** | Event-Driven Architectures & APIs | `Node.js` `Express` `Socket.io` |
+| **<img src="https://img.icons8.com/fluency/48/database.png" width="18" valign="middle" /> Data Persistence** | Document & Cloud Datastores | `MongoDB` `Firebase` |
+| **<img src="https://img.icons8.com/fluency/48/shield.png" width="18" valign="middle" /> Threat Intel & Systems** | Automated Telemetry & OS Internals | `Linux` `Git` `REST APIs` |
 
 </div>
 
