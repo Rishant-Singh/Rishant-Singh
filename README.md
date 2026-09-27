@@ -102,19 +102,28 @@
 
 <div align="center">
 
-<!-- Real-time Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishant-Singh&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" width="95%" />
+#### <img src="https://img.icons8.com/fluency/48/activity-history.png" width="22" valign="middle" /> Contribution Activity Pulse
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishant-Singh&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
 
 <br/><br/>
 
-<!-- Streak & Top Languages Cards -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishant-Singh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishant-Singh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="46%" />
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <strong><img src="https://img.icons8.com/fluency/48/fire-element.png" width="20" valign="middle" /> Developer Streak</strong><br/><br/>
+      <img src="https://streak-stats.demolab.com/?user=Rishant-Singh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <strong><img src="https://img.icons8.com/fluency/48/source-code.png" width="20" valign="middle" /> Primary Languages</strong><br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishant-Singh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<!-- Overall Metrics with Private Commits Enabled -->
-<img src="https://github-readme-stats.vercel.app/api?username=Rishant-Singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Profile Metrics" width="95%" />
+#### <img src="https://img.icons8.com/fluency/48/system-task.png" width="22" valign="middle" /> Overall Profile Telemetry
+<img src="https://github-readme-stats.vercel.app/api?username=Rishant-Singh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Profile Metrics" width="95%" />
 
 </div>
 
